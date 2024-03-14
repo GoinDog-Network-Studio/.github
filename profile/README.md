@@ -22,6 +22,3 @@ We welcome contributions from the community. If you're interested in collaborati
     
 ## License
 [GPL-3](GPL-3)
-
-
-您可以将这个内容复制粘贴到您的 GitHub 仓库的 README.md 文件中。希望这个 README 文件能够为您的项目增添价值！
