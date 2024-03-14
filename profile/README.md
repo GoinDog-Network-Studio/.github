@@ -18,7 +18,7 @@ We welcome contributions from the community. If you're interested in collaborati
     
 ## Contact Us
 - Email: contact@goindog.cn
-- Website: [www.goindognetworkstudio.com](https://www.goindog.cn)
+- Website: [www.goindog.cn](https://www.goindog.cn)
     
 ## License
 [GPL-3](GPL-3)
